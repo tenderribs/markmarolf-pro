@@ -1,2 +1,2 @@
 # markmarolf-pro
-A refactored version of markmarolf.com
+A refactored and simplified version of markmarolf.com using Vue.js and Bulma 
