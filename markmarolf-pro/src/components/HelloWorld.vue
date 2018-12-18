@@ -1,7 +1,8 @@
 <template>
     <div class="mark">
+        <a href="https://www.youtube.com/channel/UC9uD9Rf_Ov0nyjnXUcb6pTA" target="blank">
         <h3 id="name" class="title">Mark Marolf</h3>
-        <p id="links">Youtube</p>
+        </a>
     </div>
 </template>
 
